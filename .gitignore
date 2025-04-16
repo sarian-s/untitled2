@@ -21,6 +21,7 @@ src/main/java/erg.java
 .settings
 .springBeans
 .sts4-cache
+pom.xml
 
 ### NetBeans ###
 /nbproject/private/
