@@ -22,7 +22,7 @@ src/main/java/erg.java
 .settings
 .springBeans
 .sts4-cache
-
+src/main/java
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
