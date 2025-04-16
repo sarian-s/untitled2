@@ -15,6 +15,9 @@ target/
 pom.xml
 *erg.java
 *dd.java
+*ss.java
+*aa.java
+
 ### Eclipse ###
 .apt_generated
 .classpath
